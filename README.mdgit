@@ -1,0 +1,2 @@
+"# hackaton"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/celessgali19/hackaton.gitgit push -u origin master
+"# hackaton"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/celessgali19/hackaton.gitgit push -u origin master
