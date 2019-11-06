@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                Hola checha y Hola Gali v: somos los SANTOS
                 </div>
 
                 <div class="links">
